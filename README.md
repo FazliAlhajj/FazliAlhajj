@@ -1,7 +1,6 @@
 ### Hi Fazli👋
-  ![Foto](/foto1.jpg)
-<!--
-**FazliAlhajj/FazliAlhajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ ![Foto](/foto1.jpg)
 
 Here are some ideas to get you started:
 
