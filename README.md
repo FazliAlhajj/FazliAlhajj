@@ -1,6 +1,6 @@
 ### Hi Fazli👋
  
- ![Foto](/foto1.jpg)
+  ![Foto](/Untitled.png)
 <!--
 Here are some ideas to get you started:
 
