@@ -1,5 +1,5 @@
 ### Hi Fazli👋
-  ![Foto Saya](/poto.png)
+  ![Foto Saya](/foto1.jpg
 <!--
 **FazliAlhajj/FazliAlhajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
